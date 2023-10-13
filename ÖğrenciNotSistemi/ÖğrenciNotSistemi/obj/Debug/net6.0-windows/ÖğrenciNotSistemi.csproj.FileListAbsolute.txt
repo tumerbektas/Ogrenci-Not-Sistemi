@@ -1,0 +1,17 @@
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\net6.0-windows\ÖğrenciNotSistemi.exe
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\net6.0-windows\ÖğrenciNotSistemi.deps.json
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\net6.0-windows\ÖğrenciNotSistemi.runtimeconfig.json
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\net6.0-windows\ÖğrenciNotSistemi.dll
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\bin\Debug\net6.0-windows\ÖğrenciNotSistemi.pdb
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.Form1.resources
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.Properties.Resources.resources
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.csproj.GenerateResource.cache
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.AssemblyInfoInputs.cache
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.AssemblyInfo.cs
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.csproj.CoreCompileInputs.cache
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.dll
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\refint\ÖğrenciNotSistemi.dll
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.pdb
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ÖğrenciNotSistemi.genruntimeconfig.cache
+C:\Users\tumer\source\repos\ÖğrenciNotSistemi\ÖğrenciNotSistemi\obj\Debug\net6.0-windows\ref\ÖğrenciNotSistemi.dll
